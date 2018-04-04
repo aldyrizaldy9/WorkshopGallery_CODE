@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "888104203935",
+    "firebase_url": "https://workshopgallery-ea2df.firebaseio.com",
+    "project_id": "workshopgallery-ea2df",
+    "storage_bucket": "workshopgallery-ea2df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888104203935:android:6564bd056696d049",
+        "android_client_info": {
+          "package_name": "com.example.aldy.workshopgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888104203935-a0vpq2f6efvjgbnlb4kh0t2vg92kumu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aldy.workshopgallery",
+            "certificate_hash": "a8bfc029b651af285770885d6646cb1d1006db52"
+          }
+        },
+        {
+          "client_id": "888104203935-un2sokmh7plcuoluumojnebvlk7lvg96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMT-f9YAQJDpVFLQ1qRMVR_w_KfoYOg0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888104203935-un2sokmh7plcuoluumojnebvlk7lvg96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
